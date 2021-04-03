@@ -24,7 +24,6 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 ## File Descriptions
 This repo contains 4 files. 
 - `Starbucks_Capstone_notebook.ipynb` : the code notebook .
--  `Capstone-Project-Report.pdf` : my project report .
 -   `Data` :
     - 1. Profile.json
     - 2. Portfolio.json
