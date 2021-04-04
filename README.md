@@ -29,6 +29,14 @@ This repo contains 4 files.
     - 2. Portfolio.json
     - 3. Transcript.json 
 
+## Reflections
+1. I found this project to be challenging as I have never worked with 3 datasets.
+2. Most of the time has been spent in cleaning the data and feature engineering.
+3. Learned a lot about feature engineering and feature selection.
+4. Drew a lot of insights from Exploratory Data Analysis
+5. The main goal was to predict the response of the customer based on the offer sent to him.
+6. I am satisfied by the predictions made by both the Decision Tree and Random Forest Classifier Models.
+7. The F1 Score of both the models on training and testing data sets was way better than the benchmark model.
 
 ## Licensing, Authors, Acknowledgements .
 Data was provided by Udacity in collobaration with Starbucks. Feel free to use the notebook for your work and research.
